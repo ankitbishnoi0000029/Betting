@@ -1,0 +1,86 @@
+
+.main_header_game{
+    background: rgba(1, 140, 17, 0.974);
+   
+}
+.main_bar_game{
+    /* height: 80vh; */
+    /* width: 90%; */
+    border: 4px solid rgba(0, 0, 0, 0.556);
+    margin: 10px;
+    border-radius: 10px 10px 10px 10px;
+    outline: 6px solid rgb(0, 85, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.endi3{
+    display: ruby;
+    justify-content: center;
+    align-items: center;
+}
+.counting{
+  
+    padding: 10px;
+    border: 1px solid;
+
+}
+.mybutton{
+    
+        background: rgb(0, 0, 0);
+        border-radius: 50%;
+        height: 50px;
+        width: 50px;
+        color: white;
+}
+.nde4{
+    
+    background: rgb(0, 0, 0);
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    color: white;
+}
+.nde4-md{
+    background:yellow;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    color: black;
+    align-self: center;
+    border: 1px solid;
+}
+.mySidebar{
+    display: ruby;
+}
+.nde4-md{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-weight: 500;
+}
+.btn-my-data{
+    width: 100%;
+    padding: 12px;
+    border-radius: 12px;
+    background: yellow;
+    border: none;
+    font-size: larger;
+    font-weight: 700;
+}
+.mybtn_close {
+    position: relative;
+    bottom: 18px;
+    background-color: red;
+    border-radius: 50%;
+}
+.text-bet {
+    position: relative;
+    left: 13px;
+}
+.mybtn_close:hover {
+ cursor: pointer;
+border: 1px solid;
+}
